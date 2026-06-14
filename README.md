@@ -5,6 +5,34 @@
 Εργασία εξαμήνου στο μάθημα **Μπεϋζιανή Στατιστική και MCMC**.  
 Περιλαμβάνει θεωρητική ανάλυση, υλοποίηση αλγορίθμων MCMC σε R  
 και εφαρμογή σε πραγματικά δεδομένα.
+---
+
+## Δομή Repository
+bayesian-mcmc-assignment/
+
+│
+
+├── Katsouri-Antonia.pdf       # Πλήρες κείμενο εργασίας
+
+│
+
+├── code/
+
+│   ├── exercise1_jags.R       # Άσκηση 1 — JAGS
+
+│   ├── exercise1_gibbs.R      # Άσκηση 1 — Gibbs Sampler
+
+│   ├── exercise2_bayes_factor.R  # Άσκηση 2 — Bayes Factor
+
+│   ├── exercise3_wish.R       # Άσκηση 3 — Wish Dataset
+
+│   └── exercise4_metropolis_hastings.R  # Άσκηση 4 — MH
+
+│
+
+├── plots/                     # Διαγνωστικά γραφήματα MCMC
+
+└── data/                      # Dataset Wish (Kaggle)
 
 ---
 
